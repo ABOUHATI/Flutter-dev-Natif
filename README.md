@@ -78,6 +78,4 @@ lib/
 
 ---
 
-## 👨‍💻 Author
-
-**Saad El Mabrouk**  
+ 
